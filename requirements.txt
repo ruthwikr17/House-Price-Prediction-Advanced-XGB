@@ -1,1 +1,14 @@
-AIzaSyCmhRGC4ek-P6Mb7QiZAwOl675SzZu8V3Q
+pandas
+numpy
+scikit-learn
+xgboost
+catboost
+matplotlib
+seaborn
+joblib
+category-encoders
+scipy
+streamlit
+plotly
+streamlit-option-menu
+python-dotenv

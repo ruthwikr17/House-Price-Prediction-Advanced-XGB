@@ -83,3 +83,17 @@ Accurately estimating house prices is challenging due to diverse factors like lo
 ---
 
 ## 🗂️ Folder Structure
+
+Project/
+│
+├── app/                      # Streamlit UI
+├── src/                      # Model code
+│   ├── train_models.py
+│   ├── ensemble_predict.py
+│   └── preprocess.py
+├── models/                   # Saved model artifacts (.pkl files)
+├── data/                     # Dataset CSV
+├── .env                      # (not tracked) Gemini API Key
+├── .gitignore
+├── requirements.txt
+└── README.md

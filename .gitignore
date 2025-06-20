@@ -33,3 +33,6 @@
 
 
 .env
+
+# Model files are > 100 MB
+/models 
